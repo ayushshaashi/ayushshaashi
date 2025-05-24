@@ -53,16 +53,3 @@ const ayush = {
 
 ### 🌟 Quote I Live By
 > *"Design it like it's art. Build it like it's engineering."*
-
-<style>
-@keyframes float {
-  0% { transform: translatey(0px); }
-  50% { transform: translatey(-10px); }
-  100% { transform: translatey(0px); }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
