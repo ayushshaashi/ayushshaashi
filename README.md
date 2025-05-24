@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushshaashi/ayushshaashi/banner.png" alt="Ayush's Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
