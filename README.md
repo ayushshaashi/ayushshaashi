@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Synergy-AI**
 
-- 💬 Ask me about **React, React-Native, Design**
+- 💬 Ask me about **React, React-Native and Design**
 
 - 📫 How to reach me **ayush.221268@gmail.com**
 
