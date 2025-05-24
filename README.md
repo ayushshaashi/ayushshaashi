@@ -34,14 +34,14 @@ const ayush = {
 
 ### 🛠 Tech I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,py,java,html,css,mongodb,mysql,firebase,flask,tailwind,git,figma,photoshop,postman" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,py,java,html,css,mongodb,mysql,firebase,flask,tailwind,git,figma,photoshop,postman" style="animation: float 4s ease-in-out infinite;" />
 </p>
 
 ---
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshaashi&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshaashi&layout=compact&theme=radical" alt="Top Langs" style="animation: fadeIn 2s ease-in;"/>
 </p>
 
 ---
@@ -53,3 +53,16 @@ const ayush = {
 
 ### 🌟 Quote I Live By
 > *"Design it like it's art. Build it like it's engineering."*
+
+<style>
+@keyframes float {
+  0% { transform: translatey(0px); }
+  50% { transform: translatey(-10px); }
+  100% { transform: translatey(0px); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
